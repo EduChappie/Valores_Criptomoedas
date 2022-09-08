@@ -14,3 +14,15 @@ Foi aasim que foi póssivel eu extrair os dados de cada site e recolher a atual 
 
 ### [= Tkinter_](https://tkdocs.com/tutorial/)
 Tkinter é um modulo já pre-instalado na linguagem Python3, onde é póssivel fazer a adição de interface gráfica, que é a que está presente no momento.
+
+### = Atualição com Kivy_
+Arquivos recente adicionados...
+|- main.py
+|- screen.kv
+
+São arquivos para uma versão melhorada desse mesmo programa, utilizando uma nova linguagem e um novo código.
+Nesse código utilizei as bibliotecas:
+  - Kivy
+  - Request
+
+  Uma versão mais simples e até melhor no desempenho
